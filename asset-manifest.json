@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cardholder/static/css/main.72e60098.css",
+    "main.js": "/cardholder/static/js/main.55c281b5.js",
+    "stencil-polyfills-dom.js": "/cardholder/static/js/stencil-polyfills-dom.d28a7ae9.chunk.js",
+    "stencil-polyfills-core-js.js": "/cardholder/static/js/stencil-polyfills-core-js.9ffe5f08.chunk.js",
+    "stencil-polyfills-css-shim.js": "/cardholder/static/js/stencil-polyfills-css-shim.0972859e.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js": "/cardholder/static/js/stencil-h8k-logo_2-entry-js.27b80f73.chunk.js",
+    "index.html": "/cardholder/index.html",
+    "main.72e60098.css.map": "/cardholder/static/css/main.72e60098.css.map",
+    "main.55c281b5.js.map": "/cardholder/static/js/main.55c281b5.js.map",
+    "stencil-polyfills-dom.d28a7ae9.chunk.js.map": "/cardholder/static/js/stencil-polyfills-dom.d28a7ae9.chunk.js.map",
+    "stencil-polyfills-core-js.9ffe5f08.chunk.js.map": "/cardholder/static/js/stencil-polyfills-core-js.9ffe5f08.chunk.js.map",
+    "stencil-polyfills-css-shim.0972859e.chunk.js.map": "/cardholder/static/js/stencil-polyfills-css-shim.0972859e.chunk.js.map",
+    "stencil-h8k-logo_2-entry-js.27b80f73.chunk.js.map": "/cardholder/static/js/stencil-h8k-logo_2-entry-js.27b80f73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e60098.css",
+    "static/js/main.55c281b5.js"
+  ]
+}
